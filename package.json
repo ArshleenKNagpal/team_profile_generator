@@ -1,0 +1,27 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "## Project Description",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArshleenKNagpal/team_profile_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArshleenKNagpal/team_profile_generator/issues"
+  },
+  "homepage": "https://github.com/ArshleenKNagpal/team_profile_generator#readme",
+  "dependencies": {
+    "i": "^0.3.7",
+    "inquirer": "^8.2.0"
+  }
+}
