@@ -26,7 +26,7 @@ walkthrough video link that demonstrates applications functionality:
 
 
 The URL of the GitHub repository is: 
-<https://github.com/ArshleenKNagpal/good-readme-generator>
+<https://github.com/ArshleenKNagpal/team_profile_generator>
 
 ---
 

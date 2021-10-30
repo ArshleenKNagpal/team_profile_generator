@@ -8,7 +8,7 @@ const Intern = require('./lib/intern');
 
 let team = [];
 
-const newEmployee = [
+let newEmployee = [
     {
         type: 'list',
         name: 'employeeRole',
