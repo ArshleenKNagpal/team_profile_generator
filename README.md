@@ -19,7 +19,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 The following image shows the Team Profile Generator application's appearance and functionality:
 
-![The screenshot includes an image of the Team Profile Generator.](./screenshot.png)
+![The screenshot includes an image of the Team Profile Generator.](./Screenshot.png)
 
 
 walkthrough video link that demonstrates applications functionality: 
