@@ -8,7 +8,6 @@ test('create employee object', ()=>{
     expect(employee.name).toEqual(expect.any(String));
     expect(employee.id).toEqual(expect.any(Number));
     expect(employee.email).toEqual(expect.any(String));
-    expect(employee.role).toEqual(expect.any(String));
 
 });
 
@@ -31,9 +30,3 @@ test('gets email from getEmail',()=>{
     expect(employee.getEmail()).toEqual(expect.stringContaining(employee.email.toString()));
 });
 
-
-// gets empl role
-test('get role of employee', ()=>{
-    const employee = new Employee('employee','amelia',30,'amelia@test.com');
-    expect(employee.getRole()).toEqual("Employee");
-});

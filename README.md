@@ -23,7 +23,7 @@ The following image shows the Team Profile Generator application's appearance an
 
 
 walkthrough video link that demonstrates applications functionality: 
-
+<https://drive.google.com/file/d/1S4YBaEEeAvgjxUi6VR-YsFhc1Q9ROkGt/view>
 
 The URL of the GitHub repository is: 
 <https://github.com/ArshleenKNagpal/team_profile_generator>
